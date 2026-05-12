@@ -1,0 +1,12 @@
+{
+  "gerado_em": "11/05/2026 09:10:18",
+  "dashboard": "C:\\Users\\Roberto Moura\\Downloads\\Propostas do sistema\\dashboard.html",
+  "dashboard_versionado": "C:\\Users\\Roberto Moura\\Downloads\\Propostas do sistema\\dashboard_AJUSTE_13_ATENDIMENTOS.html",
+  "relatorio_xlsx": "C:\\Users\\Roberto Moura\\Downloads\\Propostas do sistema\\relatorio_plano_ativacao_atendimentos_AJUSTE_13.xlsx",
+  "clientes_base": 13426,
+  "clientes_com_atendimento": 12202,
+  "clientes_atendidos_uma_vez": 4445,
+  "clientes_sem_contato_30_dias": 12689,
+  "clientes_com_proposta_aberta": 7939,
+  "detalhe_cliente": "Ao abrir um cliente, o dashboard mostra resumo de atendimentos, ultimo contato e protocolos encontrados."
+}

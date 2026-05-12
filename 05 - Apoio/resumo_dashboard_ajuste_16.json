@@ -1,0 +1,48 @@
+{
+  "versao": "dashboard_AJUSTE_16_CLIQUES_RX_CLIENTE.html",
+  "arquivos": [
+    "C:\\Users\\Roberto Moura\\Downloads\\Propostas do sistema\\dashboard_AJUSTE_16_CLIQUES_RX_CLIENTE.html",
+    "C:\\Users\\Roberto Moura\\Downloads\\Propostas do sistema\\dashboard.html",
+    "C:\\Users\\Roberto Moura\\Downloads\\Propostas do sistema\\06 - Lote final organizado\\dashboard_AJUSTE_16_CLIQUES_RX_CLIENTE.html",
+    "C:\\Users\\Roberto Moura\\Downloads\\Propostas do sistema\\06 - Lote final organizado\\dashboard.html",
+    "C:\\Users\\Roberto Moura\\Downloads\\Propostas do sistema\\09 - Regras\\LISTAGEM_REGRAS_EXCECOES_CONTEXTO_LINHA_DO_TEMPO.xlsx"
+  ],
+  "acoes": [
+    {
+      "tipo": "Cliques",
+      "acao": "Corrigir cliques do RX da equipe, ação e atendimento.",
+      "contexto": "Usuário informou que vários cliques não funcionavam.",
+      "obs": "Abertura agora usa painel inline para baixo."
+    },
+    {
+      "tipo": "RX cliente",
+      "acao": "Botões de agrupamento direcionam para Dashboard RX de cliente.",
+      "contexto": "Usuário pediu direcionar ao RX de cliente, não ao agrupamento solto.",
+      "obs": "Bloco Agrupamento final foi removido."
+    },
+    {
+      "tipo": "Atendimentos",
+      "acao": "Adicionar agrupamentos em atendimentos.",
+      "contexto": "Usuário pediu agrupamento nos atendimentos também.",
+      "obs": "Agrupa por setor, vendedor, prioridade, proposta aberta, último contato e recorrência."
+    },
+    {
+      "tipo": "Layout",
+      "acao": "Reduzir faixa superior, harmonizar frase e destacar foco.",
+      "contexto": "Usuário pediu reduzir faixa, logotipo e frases mais harmonizadas.",
+      "obs": "Tentativa de logo.png se existir; mantém EG como fallback."
+    },
+    {
+      "tipo": "Ordem",
+      "acao": "Mover propostas por setor e tabela para baixo do RX de cliente.",
+      "contexto": "Usuário pediu levar essa parte para baixo do RX do cliente.",
+      "obs": "Listas detalhadas ficam depois do painel de aprofundamento."
+    },
+    {
+      "tipo": "Regra atendimento",
+      "acao": "Atendimento passa a respeitar clientes do filtro atual de propostas.",
+      "contexto": "Usuário questionou os 2.500 clientes.",
+      "obs": "Cards de atendimento agora usam interseção com o filtro atual quando houver chave de cliente."
+    }
+  ]
+}

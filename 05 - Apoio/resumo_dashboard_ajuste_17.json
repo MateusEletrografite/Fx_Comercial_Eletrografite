@@ -1,0 +1,20 @@
+{
+  "ok": true,
+  "versao": "dashboard_AJUSTE_17_VIDEO_APONTAMENTOS.html",
+  "arquivos": [
+    "C:\\Users\\Roberto Moura\\Downloads\\Propostas do sistema\\dashboard_AJUSTE_17_VIDEO_APONTAMENTOS.html",
+    "C:\\Users\\Roberto Moura\\Downloads\\Propostas do sistema\\dashboard.html",
+    "C:\\Users\\Roberto Moura\\Downloads\\Propostas do sistema\\Apresentação\\01_DASHBOARD_ATUAL.html",
+    "C:\\Users\\Roberto Moura\\Downloads\\Propostas do sistema\\01 - Ultimo alteração\\dashboard.html"
+  ],
+  "diagnostico": "Scripts de ajustes 14, 15 e 16 estavam acumulados e sobrescrevendo funções/handlers entre si.",
+  "correcoes": [
+    "removidas camadas antigas de script",
+    "filtros rapidos aplicados ao conjunto atual",
+    "agrupamentos direcionam para Dashboard RX de cliente",
+    "RX da equipe com cliques funcionais e abertura para baixo",
+    "atendimentos filtrados pelo contexto atual",
+    "tabelas com cabeçalhos ordenáveis",
+    "faixa superior reduzida e frase harmonizada"
+  ]
+}

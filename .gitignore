@@ -1,0 +1,50 @@
+# Publicacao enxuta para GitHub Pages.
+# O dashboard principal fica em index.html com os dados embutidos.
+# Bases brutas/historicos pesados ficam fora do Git por limite de tamanho e performance.
+
+*
+!*/
+
+!index.html
+!.nojekyll
+!.gitignore
+!README.md
+!Padrão Codex.xlsx
+
+!08 - Códigos/**
+!09 - Regras/**
+
+!05 - Apoio/digisac_supplement_matches.js
+!05 - Apoio/digisac_supplement_matches.json
+!05 - Apoio/resumo_*.json
+!05 - Apoio/Cnpjs Cenprot.xlsx
+!05 - Apoio/Logo Rosa Png fundo transparente.png
+
+!04 - Fonte/*.xlsx
+!04 - Fonte/*.pdf
+!04 - Fonte/00_MANIFESTO_APRESENTACAO.xlsx
+!04 - Fonte/03_MATRIZ_FONTES_ATUALIZACAO_DIARIA.xlsx
+!04 - Fonte/04_INVENTARIO_FONTES_ATUALIZACAO_DIARIA.xlsx
+!04 - Fonte/05_BASE_PROPOSTAS_COM_ATENDIMENTOS_ATUAL.xlsx
+!04 - Fonte/06_PLANO_ATIVACAO_ATENDIMENTOS.xlsx
+!04 - Fonte/07_REGRAS_LINHA_DO_TEMPO.xlsx
+!04 - Fonte/08_GUIA_RELATORIOS_E_AUTOMACAO_DIARIA.xlsx
+!04 - Fonte/09_DOCUMENTO_UNICO_PROPOSTAS_COMPRAS_E_ATENDIMENTOS.pdf
+!04 - Fonte/09_DOCUMENTO_UNICO_PROPOSTAS_COMPRAS_E_ATENDIMENTOS.xlsx
+!04 - Fonte/INVENTARIO_FONTES_ATUALIZACAO_DIARIA.xlsx
+!04 - Fonte/LISTAGEM_REGRAS_EXCECOES_CONTEXTO_LINHA_DO_TEMPO.xlsx
+!04 - Fonte/MATRIZ_FONTES_ATUALIZACAO_DIARIA.xlsx
+
+# Bloqueios explicitos de arquivos grandes e fontes brutas.
+*.csv
+*.xls
+*.pyc
+__pycache__/
+Alterações/
+07 - Auditoria/
+07 - Auditoria para aprovar limpeza/
+01 - Apresentação/Compras*.xlsx
+05 - Apoio/01 - Em aberto - 12-2024 a 05-2026/
+05 - Apoio/02 - Concluídas - 12-2024 a 05-2026/
+05 - Apoio/03 - Não aprovadas - 12-2024 a 05-2026/
+05 - Apoio/Propostas por mes com marcadores/

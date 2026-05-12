@@ -1,0 +1,66 @@
+{
+  "versao": "dashboard_AJUSTE_14_PANORAMA_RX.html",
+  "arquivos": [
+    "C:\\Users\\Roberto Moura\\Downloads\\Propostas do sistema\\dashboard_AJUSTE_14_PANORAMA_RX.html",
+    "C:\\Users\\Roberto Moura\\Downloads\\Propostas do sistema\\dashboard.html",
+    "C:\\Users\\Roberto Moura\\Downloads\\Propostas do sistema\\06 - Lote final organizado\\dashboard_AJUSTE_14_PANORAMA_RX.html",
+    "C:\\Users\\Roberto Moura\\Downloads\\Propostas do sistema\\06 - Lote final organizado\\dashboard.html",
+    "C:\\Users\\Roberto Moura\\Downloads\\Propostas do sistema\\09 - Regras\\LISTAGEM_REGRAS_EXCECOES_CONTEXTO_LINHA_DO_TEMPO.xlsx"
+  ],
+  "acoes": [
+    {
+      "tipo": "Layout",
+      "acao": "Mover botões de relatório, mapa mental, imprimir, duplicadas e auditoria para o rodapé.",
+      "contexto": "Usuário pediu tirar esses botões do topo e enviar para o rodapé.",
+      "obs": "Botões de Propostas em aberto e RX da equipe continuam no topo como navegação rápida."
+    },
+    {
+      "tipo": "Filtros",
+      "acao": "Compactar filtros laterais com área Mais filtros.",
+      "contexto": "Usuário pediu retirar excesso de campos fixos para deixar a lateral mais limpa.",
+      "obs": "Busca, período e setor ficam visíveis; demais filtros ficam recolhidos."
+    },
+    {
+      "tipo": "Filtros globais",
+      "acao": "Setores rápidos, período e mês passam a recalcular todo o dashboard.",
+      "contexto": "Usuário pediu filtros rápidos aplicados ao dashboard inteiro.",
+      "obs": "Inclui KPIs, RX, propostas, agrupamentos e atendimentos."
+    },
+    {
+      "tipo": "Agrupamentos",
+      "acao": "Botões de agrupamento agora abrem a área de agrupamentos e mantêm lista clicável.",
+      "contexto": "Usuário informou que botões não abriam nada.",
+      "obs": "Listas abertas recebem cabeçalho ordenável."
+    },
+    {
+      "tipo": "RX da equipe",
+      "acao": "Detalhe do vendedor passa a abrir deslizando para baixo no RX.",
+      "contexto": "Usuário pediu abertura de vendedor sem modal central.",
+      "obs": "Inclui propostas abertas/concluídas, valores e panorama de atendimentos."
+    },
+    {
+      "tipo": "Atendimentos",
+      "acao": "Integrar atendimento no RX por vendedor com 15, 30, 60 e mais de 60 dias.",
+      "contexto": "Usuário pediu panorama de atendimento por vendedor e plano de ação.",
+      "obs": "Botão Ação proposta abre relatório de atendimento para distribuir follow-up."
+    },
+    {
+      "tipo": "KPIs",
+      "acao": "No modo Em aberto, ocultar Valor total e Valor concluído.",
+      "contexto": "Usuário pediu retirar esses valores das propostas em aberto.",
+      "obs": "Ficam Propostas, Valor em aberto e Clientes."
+    },
+    {
+      "tipo": "Status",
+      "acao": "Adicionar total de clientes embaixo de cada status.",
+      "contexto": "Usuário pediu clientes abaixo de cada status.",
+      "obs": "Aplicado no bloco Propostas comerciais."
+    },
+    {
+      "tipo": "Ordenação",
+      "acao": "Adicionar ordenação em listas/tabelas secundárias.",
+      "contexto": "Usuário pediu todas as listas com cabeçalho ordenável.",
+      "obs": "Aplicado em agrupamentos, atendimentos, histórico do cliente e plano de ação."
+    }
+  ]
+}

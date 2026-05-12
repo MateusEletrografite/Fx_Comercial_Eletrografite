@@ -1,0 +1,12 @@
+{
+  "ok": true,
+  "versao": "dashboard_AJUSTE_18_RESTAURA_LAYOUT_PERIODO.html",
+  "base_restaurada": "C:\\Users\\Roberto Moura\\Downloads\\Propostas do sistema\\04 - Fonte\\dashboard_AJUSTE_16_CLIQUES_RX_CLIENTE.html",
+  "arquivos": [
+    "C:\\Users\\Roberto Moura\\Downloads\\Propostas do sistema\\dashboard_AJUSTE_18_RESTAURA_LAYOUT_PERIODO.html",
+    "C:\\Users\\Roberto Moura\\Downloads\\Propostas do sistema\\dashboard.html",
+    "C:\\Users\\Roberto Moura\\Downloads\\Propostas do sistema\\Apresentação\\01_DASHBOARD_ATUAL.html",
+    "C:\\Users\\Roberto Moura\\Downloads\\Propostas do sistema\\01 - Ultimo alteração\\dashboard.html"
+  ],
+  "ajuste": "Restaurado layout da versão 16 e aplicado somente o filtro Período por mês na lateral."
+}

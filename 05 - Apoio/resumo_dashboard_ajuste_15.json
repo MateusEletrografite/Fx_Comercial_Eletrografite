@@ -1,0 +1,48 @@
+{
+  "versao": "dashboard_AJUSTE_15_LIMPO_CLICAVEL.html",
+  "arquivos": [
+    "C:\\Users\\Roberto Moura\\Downloads\\Propostas do sistema\\dashboard_AJUSTE_15_LIMPO_CLICAVEL.html",
+    "C:\\Users\\Roberto Moura\\Downloads\\Propostas do sistema\\dashboard.html",
+    "C:\\Users\\Roberto Moura\\Downloads\\Propostas do sistema\\06 - Lote final organizado\\dashboard_AJUSTE_15_LIMPO_CLICAVEL.html",
+    "C:\\Users\\Roberto Moura\\Downloads\\Propostas do sistema\\06 - Lote final organizado\\dashboard.html",
+    "C:\\Users\\Roberto Moura\\Downloads\\Propostas do sistema\\09 - Regras\\LISTAGEM_REGRAS_EXCECOES_CONTEXTO_LINHA_DO_TEMPO.xlsx"
+  ],
+  "acoes": [
+    {
+      "tipo": "Visual",
+      "acao": "Reorganizar filtros no topo em formato horizontal e reduzir a lateral.",
+      "contexto": "Usuário gostou do formato de filtro do dashboard gestor.",
+      "obs": "Período concentra a seleção de mês; seletor duplicado do resumo fica oculto."
+    },
+    {
+      "tipo": "Rodapé",
+      "acao": "Manter Duplicadas e Auditoria ERP fechados por padrão.",
+      "contexto": "Usuário pediu deixar só o botão e abrir apenas ao clicar.",
+      "obs": "Botão Fechar recolhe novamente."
+    },
+    {
+      "tipo": "Menu",
+      "acao": "Ativar botão Atendimento no menu superior.",
+      "contexto": "Usuário pediu abrir atendimento no menu.",
+      "obs": "Botão rola para o bloco de atendimento."
+    },
+    {
+      "tipo": "RX",
+      "acao": "Trocar panorama de vendedor por tabela limpa e clicável.",
+      "contexto": "Usuário achou o formato anterior poluído e pouco claro.",
+      "obs": "Linhas e números abrem detalhe/lista."
+    },
+    {
+      "tipo": "Atendimentos",
+      "acao": "Unificar atendimento em uma fila única.",
+      "contexto": "Usuário disse que separar com/sem proposta não fez sentido.",
+      "obs": "Coluna indica se há proposta aberta; rótulo esclarece clientes dos atendimentos."
+    },
+    {
+      "tipo": "Clicabilidade",
+      "acao": "Adicionar clique em KPIs, barras, status, kits, vendedores e listas.",
+      "contexto": "Usuário pediu tudo clicável.",
+      "obs": "Abre lista filtrada ou detalhe sem deixar tudo exposto na tela inicial."
+    }
+  ]
+}

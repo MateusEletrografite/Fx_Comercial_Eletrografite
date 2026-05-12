@@ -1,0 +1,12 @@
+{
+  "gerado_em": "11/05/2026 08:16:45",
+  "ajuste": "Remocao das melhorias equivocadas de Auditoria ERP no dashboard",
+  "dashboard": "C:\\Users\\Roberto Moura\\Downloads\\Propostas do sistema\\dashboard.html",
+  "dashboard_lote": "C:\\Users\\Roberto Moura\\Downloads\\Propostas do sistema\\06 - Lote final organizado\\dashboard.html",
+  "dashboard_versionado": "C:\\Users\\Roberto Moura\\Downloads\\Propostas do sistema\\dashboard_AJUSTE_12_AUDITORIA_SIMPLES.html",
+  "preservado": [
+    "filtros no resumo",
+    "ordenacao por cabecalho",
+    "agrupamentos clicaveis com abertura deslizavel"
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "gerado_em": "2026-05-11T12:53:44",
+  "xlsx": "C:\\Users\\Roberto Moura\\Downloads\\Propostas do sistema\\Apresentação\\09_DOCUMENTO_UNICO_PROPOSTAS_COMPRAS_E_ATENDIMENTOS.xlsx",
+  "pdf": "C:\\Users\\Roberto Moura\\Downloads\\Propostas do sistema\\Apresentação\\09_DOCUMENTO_UNICO_PROPOSTAS_COMPRAS_E_ATENDIMENTOS.pdf",
+  "pdf_ok": true,
+  "pdf_msg": "",
+  "compras_salvar_em": "C:\\Users\\Roberto Moura\\Downloads\\Banco de Dados Operacional\\00 - Entrada diaria\\01 - ERP Olist\\Compras ERP",
+  "sellflux_salvar_em": "C:\\Users\\Roberto Moura\\Downloads\\Banco de Dados Operacional\\00 - Entrada diaria\\02 - SellFlux Atendimentos",
+  "handler_corrigido": "C:\\Users\\Roberto Moura\\Downloads\\Propostas do sistema\\08 - Códigos\\atualizar_tudo_ao_salvar.py"
+}

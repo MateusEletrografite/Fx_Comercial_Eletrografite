@@ -1,0 +1,29 @@
+{
+  "gerado_em": "2026-05-11T12:23:32",
+  "guia": "C:\\Users\\Roberto Moura\\Downloads\\Propostas do sistema\\Apresentação\\08_GUIA_RELATORIOS_E_AUTOMACAO_DIARIA.xlsx",
+  "entrada_diaria": "C:\\Users\\Roberto Moura\\Downloads\\Banco de Dados Operacional\\00 - Entrada diaria",
+  "watcher": "C:\\Users\\Roberto Moura\\Downloads\\Propostas do sistema\\08 - Códigos\\monitorar_entrada_diaria.ps1",
+  "handler": "C:\\Users\\Roberto Moura\\Downloads\\Propostas do sistema\\08 - Códigos\\atualizar_tudo_ao_salvar.py",
+  "substituicoes": [
+    {
+      "origem": "C:\\Users\\Roberto Moura\\Downloads\\Propostas do sistema\\Apresentação\\Propostas comerciais.xlsx",
+      "destino": "C:\\Users\\Roberto Moura\\Downloads\\Propostas do sistema\\Apresentação\\05_BASE_PROPOSTAS_COM_ATENDIMENTOS_ATUAL.xlsx",
+      "status": "substituído"
+    },
+    {
+      "origem": "C:\\Users\\Roberto Moura\\Downloads\\Propostas do sistema\\Apresentação\\Propostas comerciais.xlsx",
+      "destino": "C:\\Users\\Roberto Moura\\Downloads\\Propostas do sistema\\04 - Fonte\\01 - ERP Propostas\\Propostas comerciais.xlsx",
+      "status": "substituído"
+    },
+    {
+      "origem": "C:\\Users\\Roberto Moura\\Downloads\\Propostas do sistema\\Apresentação\\Propostas comerciais.xlsx",
+      "destino": "C:\\Users\\Roberto Moura\\Downloads\\Banco de Dados Operacional\\01 - ERP Olist\\Propostas\\Propostas comerciais.xlsx",
+      "status": "substituído"
+    },
+    {
+      "origem": "C:\\Users\\Roberto Moura\\Downloads\\Propostas do sistema\\Apresentação\\Propostas comerciais.xlsx",
+      "destino": "C:\\Users\\Roberto Moura\\Downloads\\Banco de Dados Operacional\\04 - Saídas consolidadas\\Propostas do sistema\\Propostas comerciais.xlsx",
+      "status": "substituído"
+    }
+  ]
+}
