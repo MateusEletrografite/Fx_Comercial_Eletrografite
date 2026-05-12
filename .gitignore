@@ -9,6 +9,7 @@
 !.nojekyll
 !.gitignore
 !README.md
+!.github/**
 !Padrão Codex.xlsx
 
 !08 - Códigos/**
